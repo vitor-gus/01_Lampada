@@ -11,7 +11,7 @@ function on (){
     if (!quebrada()){
     lamp.src = './assets/ligada.png'
     body.style.background = "radial-gradient(circle, rgba(163,163,163,1) 70%, rgba(0,0,0,1) 100%, white 100%)"
-    interruptor.style.background = "linear-gradient(90deg, rgba(240,11,11,1) 0%, rgba(169,213,153,1) 19%, rgba(24,246,0,1) 100%)"
+    interruptor.style.background = "linear-gradient(90deg, rgba(240,11,11,1) 0%, rgba(169,214,153,1) 19%, rgba(24,246,0,1) 100%)"
     }
 }
 
